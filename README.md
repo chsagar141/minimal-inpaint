@@ -32,3 +32,11 @@ cd minimal-inpaint
 
 # Run the launcher
 python launcher.py
+```
+### 💕Folder - paths
+minimal-inpaint/
+├── launcher.py           # Setup + auto-runner
+├── simple_sd_ui.py       # Main Gradio interface
+├── README.md             # This file
+└── requirements.txt      # Auto-generated on first run
+
