@@ -2,7 +2,7 @@
 
 A minimal, beginner-friendly Gradio interface for Stable Diffusion image generation with **inpainting support**, **better quality outputs**, and **auto negative embedding**. Built with Python and optimized for quick setup.
 
-![Example Output](./Screenshot 2025-05-17 181601.png)
+![Example Output](.Screenshot 2025-05-17 181601.png)
 
 ---
 
